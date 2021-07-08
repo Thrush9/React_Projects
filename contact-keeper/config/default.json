@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://appdev:root@clusterone.2l88n.mongodb.net/contactkeeper?retryWrites=true&w=majority",
+  "jwtSecret": "Secret"
+}
