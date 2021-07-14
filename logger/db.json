@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on work station 005",
+      "attention": false,
+      "date": "03-03-2020",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Changed network models at work station 003 ",
+      "tech": "John Doe",
+      "attention": false,
+      "date": "2021-07-13T07:16:16.522Z"
+    },
+    {
+      "id": 3,
+      "message": "Memory management at work station 007",
+      "tech": "Sara Wilson",
+      "attention": true,
+      "date": "2021-07-13T07:17:00.512Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
